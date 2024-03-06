@@ -1,2 +1,3 @@
 # Img_FlutterFlow_IOS
-En este repositorio se guardan las imágenes de IOS
+Aqui se guardan las imagenes para cada practica de FlutterFlow
+
