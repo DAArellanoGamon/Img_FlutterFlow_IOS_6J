@@ -1,2 +1,2 @@
-# PRACTICA1_6j_ios
+# Img_FlutterFlow_IOS
 En este repositorio se guardan las imágenes de IOS
